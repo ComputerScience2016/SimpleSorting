@@ -1,0 +1,5 @@
+java code will go in this file.
+Make sure to:
+     -comment all classes and submodules
+     -comment if you make a change to exsiting code and why 
+     -
